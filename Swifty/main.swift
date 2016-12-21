@@ -8,5 +8,8 @@
 
 import Foundation
 
+var a = 18
+var b = 19
+print(a+b)
 print("Hello, World!")
 
